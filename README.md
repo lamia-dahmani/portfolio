@@ -1,2 +1,2 @@
 # portfolio
-#le site est créé avec HTML CSS Bootstrap
+le site est créé avec HTML CSS Bootstrap
